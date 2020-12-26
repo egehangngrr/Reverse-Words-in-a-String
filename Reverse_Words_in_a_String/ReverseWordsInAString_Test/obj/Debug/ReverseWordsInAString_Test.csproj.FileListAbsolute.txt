@@ -1,0 +1,9 @@
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\obj\Debug\ReverseWordsInAString_Test.csprojResolveAssemblyReference.cache
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\bin\Debug\ReverseWordsInAString_Test.dll
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\bin\Debug\ReverseWordsInAString_Test.pdb
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\bin\Debug\Reverse_Words_in_a_String.exe
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\bin\Debug\Reverse_Words_in_a_String.pdb
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\obj\Debug\ReverseWordsInAString_Test.dll
+C:\Users\Egehan\Documents\Visual Studio 2015\Projects\Reverse_Words_in_a_String\ReverseWordsInAString_Test\obj\Debug\ReverseWordsInAString_Test.pdb

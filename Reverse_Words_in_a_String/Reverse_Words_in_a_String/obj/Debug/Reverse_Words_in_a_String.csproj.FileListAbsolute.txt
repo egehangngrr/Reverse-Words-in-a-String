@@ -1,0 +1,9 @@
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\bin\Debug\Reverse_Words_in_a_String.exe.config
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\bin\Debug\Reverse_Words_in_a_String.exe
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\bin\Debug\Reverse_Words_in_a_String.pdb
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\obj\Debug\Reverse_Words_in_a_String.csprojResolveAssemblyReference.cache
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\obj\Debug\Reverse_Words_in_a_String.Form1.resources
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\obj\Debug\Reverse_Words_in_a_String.Properties.Resources.resources
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\obj\Debug\Reverse_Words_in_a_String.csproj.GenerateResource.Cache
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\obj\Debug\Reverse_Words_in_a_String.exe
+C:\Users\Egehan\Documents\visual studio 2015\Projects\Reverse_Words_in_a_String\Reverse_Words_in_a_String\obj\Debug\Reverse_Words_in_a_String.pdb
